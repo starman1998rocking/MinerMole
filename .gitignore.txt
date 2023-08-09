@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-# MemoryCaptures can get excessive in size.
+# MemoryCaptures can get excess 1 800 267 1177 ive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
